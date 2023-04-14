@@ -29,3 +29,6 @@ Disclaimer
 ----------
 
 This script should only be used for testing purposes on websites that you have permission to test. Do not use this script to attack or exploit websites without explicit permission from the website owner. The author of this script is not responsible for any misuse or illegal activities carried out using this script.
+
+README.MD CREATED VIA OPENAI
+----------
