@@ -3,6 +3,8 @@ Auto Upload JFU Script
 
 This is a Python script for testing the JFU vulnerability on Joomla! sites. The script takes two inputs, a path file and a list file. The path file should contain a list of file paths to test for the vulnerability, and the list file should contain a list of website URLs to test.
 
+`Change sample.php with your webshell name at line 30`
+
 Dependencies
 ------------
 
