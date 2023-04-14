@@ -1,0 +1,9 @@
+/asset_admin/assets/plugins/jquery-file-upload/server/php/
+/upload/server/php/
+/admin/server/php/
+/fileupload/server/php/
+/server/php/
+/admin/tools/assets/jquery-file-upload/server/php/
+/assets/jquery-file-upload/server/php/
+/assets/plugins/jquery-file-upload/server/php/
+/assets/plugins/jQuery-File-Upload/server/php/
